@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 public class ConfigManager {
     final String CONFIG_FILENAME = "config.yml";
-    final String TAG = ChatColor.translateAlternateColorCodes('&', "&f[&6Ath&f]");
+    final String TAG = ChatColor.translateAlternateColorCodes('&', "&f[&6阿影&f]");
 
     public FileConfiguration config;
     public File configFile;
